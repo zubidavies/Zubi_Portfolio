@@ -32,4 +32,4 @@ It also got the highest engagement and views on LinkedIn than any other data I h
 
 # Other Projects: World Internet Data Prices, World Cup Tournaments and Onyx Data Restaurant Challenge. 
 
-![](/main/images/data.PNG) 
+![](/images/data.PNG) 
