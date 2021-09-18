@@ -30,6 +30,6 @@ It also got the highest engagement and views on LinkedIn than any other data I h
 
 ![](/images/festman.PNG)
 
-# Other Projects: World Internet Data Prices, World Cup Tournaments and Onyx Data Restaurant Challenge. 
+# [Other Projects: World Internet Data Prices, World Cup Tournaments and Onyx Data Restaurant Challenge](https://github.com/zubidavies/Zubi_Portfolio) 
 
 ![](/images/data.PNG) 
