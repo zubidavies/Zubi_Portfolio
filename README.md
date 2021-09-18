@@ -21,11 +21,13 @@ Onyx Data is an organization that offer data consultancy services in the UK. The
 This was an E-Commerce Data and I analyzed various aspects of the business; revenue, profits, sales, products and more. 
 I equally did some DAX calculations (though it can scary). 
 
-[](https://github.com/zubidavies/Zubi_Portfolio/blob/main/images/onyx%20ecommerce.PNG)
+![](https://github.com/zubidavies/Zubi_Portfolio/blob/main/images/onyx%20ecommerce.PNG)
 
 # [Project 4: FestMan E-Commerce Data Challenge](https://github.com/zubidavies/Zubi_Portfolio)
 I did this one project thoroughly. I ensured that drilled through the datasets for several insights that the data presented. 
 The analysis took about four pages of insights and different visualization styles. 
-It also got the highest engagement and views on LinkedIn than any other data I have worked on before it. 
+It also got the highest engagement and views on LinkedIn than any other data I have worked on before it.
+
+![](https://github.com/zubidavies/Zubi_Portfolio/blob/main/images/festman%20ecommerce.PNG)
 
 # Other Projects: World Internet Data Prices, World Cup Tournaments and Onyx Data Restaurant Challenge. 
