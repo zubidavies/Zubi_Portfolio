@@ -14,7 +14,7 @@ This was the second challenge and project I participated in.
 It involved a datasets of restaurants across the United States with fields like Name, Location, Cuisine, preferred cuisine, cities and states. 
 The project showed that McDonalds remains a giant in the restaurant industry. 
 
-![](/images/maven%20restaurant.PNG)
+![](/images/maven.PNG)
 
 # [Project 3: Onyx Data E-Commerce Data Challenge](https://github.com/zubidavies/Zubi_Portfolio)
 Onyx Data is an organization that offer data consultancy services in the UK. They also put out data challenges for data analysts to participate in and I joined as well. 
