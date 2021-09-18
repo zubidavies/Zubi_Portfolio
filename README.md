@@ -1,5 +1,5 @@
 # Zubi_Portfolio
-Example Data Science/Analytics Portfolio
+Data Science/Analytics Portfolio
 
 # [Project 1: Maven Olympics Challenge](https://github.com/zubidavies/Zubi_Portfolio)
 Worked on a datasets that covered the many of the Olympics since inception until Olympics 2020. 
