@@ -28,7 +28,7 @@ I did this one project thoroughly. I ensured that drilled through the datasets f
 The analysis took about four pages of insights and different visualization styles. 
 It also got the highest engagement and views on LinkedIn than any other data I have worked on before it.
 
-![](/images/festman%20ecommerce.PNG)
+![](/images/festman.PNG)
 
 # Other Projects: World Internet Data Prices, World Cup Tournaments and Onyx Data Restaurant Challenge. 
 
