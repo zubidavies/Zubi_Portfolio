@@ -15,3 +15,15 @@ It involved a datasets of restaurants across the United States with fields like 
 The project showed that McDonalds remains a giant in the restaurant industry. 
 
 ![](https://github.com/zubidavies/Zubi_Portfolio/blob/main/images/maven%20restaurant.PNG)
+
+# [Project 3: Onyx Data E-Commerce Data Challenge](https://github.com/zubidavies/Zubi_Portfolio)
+Onyx Data is an organization that offer data consultancy services in the UK. They also put out data challenges for data analysts to participate in and I joined as well. 
+This was an E-Commerce Data and I analyzed various aspects of the business; revenue, profits, sales, products and more. 
+I equally did some DAX calculations (though it can scary). 
+
+# [Project 4: FestMan E-Commerce Data Challenge](https://github.com/zubidavies/Zubi_Portfolio)
+I did this one project thoroughly. I ensured that drilled through the datasets for several insights that the data presented. 
+The analysis took about four pages of insights and different visualization styles. 
+It also got the highest engagement and views on LinkedIn than any other data I have worked on before it. 
+
+# Other Projects: World Internet Data Prices, World Cup Tournaments and Onyx Data Restaurant Challenge. 
