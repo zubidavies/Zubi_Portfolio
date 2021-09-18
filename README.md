@@ -21,7 +21,7 @@ Onyx Data is an organization that offer data consultancy services in the UK. The
 This was an E-Commerce Data and I analyzed various aspects of the business; revenue, profits, sales, products and more. 
 I equally did some DAX calculations (though it can scary). 
 
-![](/images/onyx%20ecommerce.PNG)
+![](/images/onyx.PNG)
 
 # [Project 4: FestMan E-Commerce Data Challenge](https://github.com/zubidavies/Zubi_Portfolio)
 I did this one project thoroughly. I ensured that drilled through the datasets for several insights that the data presented. 
